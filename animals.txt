@@ -1,0 +1,7 @@
+lion
+tiger
+leopard
+turtle
+elephant
+penguin
+shark
