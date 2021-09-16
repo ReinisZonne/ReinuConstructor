@@ -1,7 +1,8 @@
+tiger black
+leopard green
+turtle yellow
+shark blue
 lion orange
 tiger black
-leopard pink
-turtle green
 elephant brown
 penguin white
-shark gray
