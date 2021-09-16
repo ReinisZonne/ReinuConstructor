@@ -1,7 +1,7 @@
-lion
-tiger
-leopard
-turtle
-elephant
-penguin
-shark
+lion orange
+tiger black
+leopard pink
+turtle green
+elephant brown
+penguin white
+shark gray
